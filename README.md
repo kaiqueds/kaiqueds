@@ -28,8 +28,14 @@
 </div>
 
 ## Sobre mim:
-### Formado em Engenharia Elétrica e um Apaixonado por dados🎲  e Machine learning🤖!
+Formado em Engenharia Elétrica e um Apaixonado por dados🎲  e Machine learning🤖!
 
-### Venho estudando as técnologias necessárias para extrair insights valiosos de grandes volumes de dados, tenho como meta pessoal mudar a vida das pessoas através da cultura DATADRIVEN📈.
+Venho estudando as técnologias necessárias para extrair insights valiosos de grandes volumes de dados, tenho como meta pessoal mudar a vida das pessoas através da cultura DATADRIVEN📈.
 
-### Sinta-se a vontade para me chamar para conversar no LinkedIn ou Discord, acesse o meu Medium e leia os artigos que venho publicando!
+Sinta-se à vontade para me chamar para conversar no LinkedIn ou Discord, acesse o meu Medium e leia os artigos que venho publicando!
+
+## Últimos Artigos Publicados no Medium:
+
+-   [Análise de Dados com SQL: Guia Inicial Parte II](https://medium.com/comunidadeds/an%C3%A1lise-de-dados-com-sql-guia-inicial-parte-ii-2b90bf9359f5)
+-   [Análise de Dados com SQL: Guia Inicial Parte I](https://medium.com/comunidadeds/an%C3%A1lise-de-dados-com-sql-guia-inicial-parte-i-c08c0e5f73e7)
+-   [Migração de Carreira para Ciência de Dados](https://medium.com/comunidadeds/migra%C3%A7%C3%A3o-de-carreira-para-ci%C3%AAncia-de-dados-48371142477c)
