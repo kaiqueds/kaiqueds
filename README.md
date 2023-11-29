@@ -1,4 +1,6 @@
-# Olá! Eu sou o Kaique Dias 👋🏼
+<img align="right" height="500em" src="https://github.com/kaiqueds/kaiqueds/assets/115119878/dbc170c0-969f-4e05-9c6c-372545e6233a"/>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Kaique Dias 👋🏼</h1>
+
 ## Seja bem vindo(a) ao meu repositório do GitHub!
 
 
