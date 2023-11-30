@@ -30,7 +30,7 @@
 </div>
 
 ## Sobre mim:
-Formado em Engenharia Elétrica sou um Apaixonado por dados🎲  e Machine learning🤖!
+Formado em Engenharia Elétrica, sou um Apaixonado por dados🎲 e Machine learning🤖!
 
 Venho estudando as técnologias necessárias para extrair insights valiosos de grandes volumes de dados, tenho como meta pessoal mudar a vida das pessoas através da cultura DATADRIVEN📈.
 
